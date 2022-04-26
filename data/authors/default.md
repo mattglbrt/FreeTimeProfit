@@ -1,16 +1,18 @@
 ---
-name: Tails Azimuth
+name: Matt Gilbert
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: The Free Time Prophet
+company: everyway
+email: matt@goeveryway.com
+twitter: https://twitter.com/mattglbrt
+linkedin: https://www.linkedin.com/in/mattglbrt/
+github: https://github.com/mattglbrt/
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Matt Gilbert is a husband, father, and on somedays a growth engineer. On other days he's a writer, photographer, teacher, designer, developer, artist, gardener, leatherworker, or just a blob attached to a keyboard and chair. He is working on fixing that last one.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+He has worked with hundreds of companies ranging from helping mom and pop shops go online, to global demand generation for Fortune 100 companies, driving millions in revenue every year.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He has spoken at events and taught workshops throughout the United States on topics such as marketing, website development, business development, startup growth, demand generation, content marketing, and social media marketing.
+
+Matt Gilbert lives in Virginia with his wife, daughter, and son. They share their house with two German Shepards and a feral beast some people might mistake for a cat.
