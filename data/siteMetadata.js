@@ -2,7 +2,8 @@ const siteMetadata = {
   title: 'Free Time Profit',
   author: 'Matt Gilbert',
   headerTitle: 'Free Time Profit',
-  description: 'Get the most out of your time and money',
+  description:
+    'Welcome to Free Time Profit. Home of my no BS guides on soloprenuership, side hustling, and actually making money online.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://freetimeprofit.com',
@@ -29,14 +30,14 @@ const siteMetadata = {
   newsletter: {
     // supports mailchimp, buttondown, convertkit, klaviyo, revue
     // Please add your .env file and modify it according to your selection
-    provider: 'buttondown',
+    provider: 'convertkit',
   },
   comment: {
     // If you want to use a commenting system other than giscus you have to add it to the
     // content security policy in the `next.config.js` file.
     // Select a provider and use the environment variables associated to it
     // https://vercel.com/docs/environment-variables
-    provider: 'giscus', // supported providers: giscus, utterances, disqus
+    provider: 'disqus', // supported providers: giscus, utterances, disqus
     giscusConfig: {
       // Visit the link below, and follow the steps in the 'configuration' section
       // https://giscus.app/
