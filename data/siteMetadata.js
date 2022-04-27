@@ -3,7 +3,7 @@ const siteMetadata = {
   author: 'Matt Gilbert',
   headerTitle: 'Free Time Profit',
   description:
-    'Welcome to Free Time Profit. Home of my no BS guides on soloprenuership, side hustling, and actually making money online.',
+    'Genuine brillance or innane madness. Home of my no BS guides on soloprenuership, side hustling, and actually making money online.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://freetimeprofit.com',
